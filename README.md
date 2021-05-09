@@ -4,7 +4,7 @@ Steps to setup the project
 To run the API
 
 1. $ cd /path to www
-2. $ git clone https://github.com/donajohn92/LaravelProject.git
+2. $ git clone https://github.com/donajohn92/laravel_project.git
 3. Create a MySQL database with the name 'donatest'.
 4. Copy the .env.example to .env and edit the configs if you have any change in database host, username or password.
 5. $ cd DonaTest
